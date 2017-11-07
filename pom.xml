@@ -30,6 +30,8 @@
         <module>zuul</module>
 
         <!--分布式配置中心-->
+        <module>config-server</module>
+        <module>config-client</module>
 
 
 
